@@ -1,0 +1,12 @@
+view.LoginForm$2
+view.LoginForm$3
+view.LoginForm$11
+view.LoginForm$1
+view.LoginForm$6
+view.LoginForm$7
+view.LoginForm
+view.LoginForm$4
+view.LoginForm$5
+view.LoginForm$8
+view.LoginForm$9
+view.LoginForm$10
